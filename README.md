@@ -1,6 +1,7 @@
 # faceRec
 
 Please check enviroment settings in the env_info.ipynb.
+I do not upload the training results (.h5 files) due to their huge sizes.
 
 
 Face Recognition (FR) has been becoming one of the mostly debated topics in the machine learning, or more specifically, deep learning. It is well known, though maybe little out of date, convolutional neural network is perfectly suitable for the image-related problem. In this small project, we explored a range of ways to realize the single and multiple FR.
